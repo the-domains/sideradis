@@ -1,0 +1,14 @@
+layout_spectrum: 0.001705333
+color:
+  saturation: 0.4814251
+  lightness: 0.06456656
+  brandStrength: 0.924812
+  brandColors:
+    - '#040304'
+    - '#4B4239'
+    - '#868177'
+    - '#E1DED9'
+    - '#C5BDB5'
+  rhythmicContrast: 0.9976538
+typography_spectrum: 0.5764411
+name: Sideradis
