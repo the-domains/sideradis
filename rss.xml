@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sideradis]]></title>
+        <description><![CDATA[Sideradis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 13:10:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My]]></title>
+            <description><![CDATA[<article><h1>My</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2670ac45cfe0e003f3b874b9891893c6906108bd.png"></article>]]></description>
+            <link>undefinedmy/index.html</link>
+            <guid isPermaLink="false">8a8d489a-cfb0-4e14-b68f-105c44487ec3</guid>
+            <pubDate>Sat, 20 Feb 2016 13:10:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
