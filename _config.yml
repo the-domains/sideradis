@@ -4,23 +4,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0.4843358
-  lightness: 0
-  brandColors:
-    - '#040304'
-    - '#4B4239'
-    - '#868177'
-    - '#E1DED9'
-    - '#C5BDB5'
-  rhythmicContrast: 0
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5764411
-layout_spectrum: 0.9160401
+color:
+  saturation: 1
+  brandStrength: 0.4843358
+  lightness: 1
+  brandColors:
+    - '#0D0C0A'
+    - '#A39B90'
+    - '#6D665C'
+    - '#3B3731'
+  rhythmicContrast: 0.9780702
+layout_spectrum: 0.4304511
 name: Sideradis
