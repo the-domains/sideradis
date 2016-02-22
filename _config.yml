@@ -10,16 +10,16 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5764411
 color:
   saturation: 1
   brandStrength: 0
-  lightness: 1
+  lightness: 0.4972015
   brandColors:
     - '#0D0C0A'
     - '#A39B90'
     - '#6D665C'
     - '#3B3731'
   rhythmicContrast: 1
+typography_spectrum: 0.5764411
 layout_spectrum: 0.4304511
 name: Sideradis
