@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5764411
 color:
   saturation: 1
   brandStrength: 0
@@ -21,5 +20,6 @@ color:
     - '#6D665C'
     - '#3B3731'
   lightness: 0.4972015
-layout_spectrum: 0.6616541
+typography_spectrum: 0.5764411
+layout_spectrum: 0.924812
 name: Sideradis
