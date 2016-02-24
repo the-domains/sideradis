@@ -32,7 +32,7 @@ color:
     - '#A39B90'
     - '#6D665C'
     - '#3B3731'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 1
