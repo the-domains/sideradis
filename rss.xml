@@ -4,7 +4,7 @@
         <description><![CDATA[Sideradis]]></description>
         <link>https://thegrid.ai/sideradis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 15:49:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sideradis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -16,9 +16,9 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/693219ef-e08e-445e-9570-789e7dbb515a.png">]]></description>
-            <link>https://thegrid.ai/sideradis/c139190e-0293-475c-831d-04916abb5a10/index.html</link>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/693219ef-e08e-445e-9570-789e7dbb515a.png</link>
             <guid isPermaLink="false">c139190e-0293-475c-831d-04916abb5a10</guid>
-            <pubDate>Sun, 21 Feb 2016 23:51:34 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 15:49:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
