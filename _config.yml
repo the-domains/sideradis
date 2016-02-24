@@ -1,7 +1,7 @@
 name: Sideradis
 favicon: null
 layout_spectrum: 0.24134
-typography_spectrum: 0.5764411
+typography_spectrum: 0.56406
 collections:
   - index:
       path: /
@@ -32,7 +32,7 @@ color:
     - '#A39B90'
     - '#6D665C'
     - '#3B3731'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0
