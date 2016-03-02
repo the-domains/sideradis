@@ -1,5 +1,4 @@
-favicon: null
-name: Sideradis
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
@@ -32,8 +31,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7393484
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Sideradis
