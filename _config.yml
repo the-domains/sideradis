@@ -1,7 +1,8 @@
 name: Sideradis
-favicon: null
-layout_spectrum: 0.7142857
-typography_spectrum: 0.56406
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
@@ -14,26 +15,25 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 0
   brandColors:
     - '#0D0C0A'
     - '#A39B90'
     - '#6D665C'
     - '#3B3731'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.4375
-  rhythmicContrast: 0
-purpose: []
+  lightness: 1
+typography_spectrum: 0.56406
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+layout_spectrum: 0.1723058
