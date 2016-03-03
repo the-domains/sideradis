@@ -1,4 +1,8 @@
-name: Sideradis
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,13 +31,9 @@ color:
     - '#3B3731'
   lightness: 1
 typography_spectrum: 0.56406
+layout_spectrum: 0.3972431
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0.1723058
+name: Sideradis
