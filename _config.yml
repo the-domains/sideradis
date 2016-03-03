@@ -1,8 +1,7 @@
-name: YiannisSideradis
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Yiannis Sideradis
+favicon: null
+layout_spectrum: 0.1610276
+typography_spectrum: 0.39642
 collections:
   - index:
       path: /
@@ -15,25 +14,26 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.1610276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.5
-  rhythmicContrast: 0
   brandColors:
     - '#0D0C0A'
     - '#A39B90'
     - '#6D665C'
     - '#3B3731'
+  brandStrength: 0.5
   lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-typography_spectrum: 0.18299
-analytics:
-  twitter: null
-  google: null
-  facebook: null
