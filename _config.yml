@@ -33,7 +33,7 @@ color:
     - '#6D665C'
     - '#3B3731'
   brandStrength: 0
-  lightness: 0.0625
+  lightness: 0.5
   saturation: 0.4375
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
