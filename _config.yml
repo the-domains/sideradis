@@ -1,4 +1,4 @@
-layout_spectrum: 0.1610276
+name: YiannisSideradis
 opengraph:
   image: null
   type: null
@@ -9,13 +9,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.1610276
 color:
   saturation: 1
   brandStrength: 0.5
@@ -26,14 +26,14 @@ color:
     - '#6D665C'
     - '#3B3731'
   lightness: 1
-typography_spectrum: 0.18299
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+typography_spectrum: 0.18299
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: YiannisSideradis
