@@ -5,36 +5,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.5
-  lightness: 1
+  rhythmicContrast: 0
   brandColors:
     - '#BCF8F8'
     - '#5D9B9A'
     - '#2C4E4F'
     - '#D1B48B'
     - '#F135EE'
-  rhythmicContrast: 0
+  lightness: 1
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Yiannis Sideradis
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.18299
-layout_spectrum: 1
+layout_spectrum: 0.6557836
